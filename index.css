@@ -15,10 +15,13 @@ button, input[type="text"] {
 button:hover {
   cursor: pointer;
 }
-
+.edit {
+  text-decoration: none;
+}
 .hidden {
   display: none;
 }
+
 
 #shopping-list-item {
   width: 250px;
